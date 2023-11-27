@@ -1,0 +1,2 @@
+C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\UE4Editor\Development\SpatialAudioProject\Definitions.SpatialAudioProject.h
+C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Source\SpatialAudioProject\SpatialAudioProject.h

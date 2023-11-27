@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpatialAudioProject",
+			"Path": "C:\\Users\\SCTE\\Documents\\Unreal Projects\\SpatialAudioProject\\Source\\SpatialAudioProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpatialAudioProjectEditor",
+			"Path": "C:\\Users\\SCTE\\Documents\\Unreal Projects\\SpatialAudioProject\\Source\\SpatialAudioProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

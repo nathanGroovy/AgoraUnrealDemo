@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpatialAudioProject-1514.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\SpatialAudioProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\UE4Editor\Development\SpatialAudioProject\MyClass.cpp.obj"
+"C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\UE4Editor\Development\SpatialAudioProject\SpatialAudioProject.cpp.obj"
+"C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\UE4Editor\Development\SpatialAudioProject\Default.rc2.res"
+/OUT:"C:\Users\SCTE\Documents\Unreal Projects\SpatialAudioProject\Intermediate\Build\Win64\UE4Editor\Development\SpatialAudioProject\UE4Editor-SpatialAudioProject-1514.lib"
